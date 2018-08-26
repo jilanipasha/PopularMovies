@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
     String LOG_TAG = "MainActivity";
 
     //Add your api key here
-    String api_key = "c5a628f98d587840fdc4aaa5863a9956\n";
+    String api_key = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
